@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn
+lightgbm
+rapidfuzz
+Unidecode
+joblib
+jellyfish
