@@ -7,12 +7,10 @@ This repository intentionally tracks code and configuration only. The full datas
 In a Colab cell:
 
 ```python
-!git clone <YOUR_REPOSITORY_URL> /content/entity-relation-ml
+!git clone https://github.com/Prajit-333/amazon-ml.git /content/entity-relation-ml
 %cd /content/entity-relation-ml
 !pip install -r requirements.txt
 ```
-
-Replace `<YOUR_REPOSITORY_URL>` with the repository URL after pushing the code.
 
 ## 2. Make the dataset available
 
